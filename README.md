@@ -11,7 +11,7 @@
 ## Fault Tolerance Strategies Used
  - Rate Limiting
  - Automatic Retry 
- - Expodential Back Off!
+ - Expodential Back Off
 
 <br/>
 <hr>
