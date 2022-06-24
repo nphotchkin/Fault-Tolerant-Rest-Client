@@ -1,7 +1,7 @@
 >
 > 🔥 Fault-Tolerant-Rest-Client
 > 
-> #### The Goal of this repo is to demonstrate fault tolerance when building rest clients.
+> ##### The Goal of this repo is to demonstrate fault tolerance when building rest clients.
 > A Java rest client sample project that is friendly with downstream systems and demonstrates
 > how little code you need to write with Open Feign (Yet Another black magic project).
 
