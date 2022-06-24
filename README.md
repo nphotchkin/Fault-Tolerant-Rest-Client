@@ -1,6 +1,4 @@
 ### 🔥 Fault-Tolerant-Rest-Client
- - [Other Projects](https://github.com/nphotchkin/My-Projects)
----
 
 <img src="https://user-images.githubusercontent.com/15834648/175644089-65fefeb5-2511-43d4-9fa1-1d3cd9ea0966.png" 
  alt="banner" 
@@ -19,3 +17,11 @@
 Dependencies:
 - [Resilience4j](https://github.com/resilience4j/resilience4j) 
 - [OpenFeign](https://spring.io/projects/spring-cloud-openfeign)
+
+<br/>
+<br/>
+<br/>
+
+---
+ - [Other Projects](https://github.com/nphotchkin/My-Projects)
+---
