@@ -13,6 +13,8 @@
  - Automatic Retry 
  - Expodential Back Off!
 
+<br/>
+<hr>
 NOTE: This project uses:
  - [OpenFeign](https://spring.io/projects/spring-cloud-openfeign#overview) for declarative rest client implementation. 
  - [Resilience4j](https://github.com/resilience4j/resilience4j) implements these various strategies which could be applied anywhere in a Java project.
