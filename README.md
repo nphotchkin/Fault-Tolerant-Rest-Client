@@ -8,7 +8,7 @@
 > A Java rest client sample project that is friendly with downstream systems and demonstrates
 > how little code you need to write with Open Feign (Yet Another black magic project).
 
-## Fault Tolerant Strategies
+## Fault Tolerance Strategies Used
  - Rate Limiting
  - Automatic Retry 
  - Expodential Back Off!
