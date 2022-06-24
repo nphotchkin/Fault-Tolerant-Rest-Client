@@ -13,8 +13,6 @@
  - Automatic Retry 
  - Expodential Back Off
 
-<br/>
-<hr>
-NOTE: This project uses:
+Dependencies:
 - [Resilience4j](https://github.com/resilience4j/resilience4j) 
-- [OpenFeign](https://spring.io/projects/spring-cloud-openfeign#overview)
+- [OpenFeign](https://spring.io/projects/spring-cloud-openfeign)
